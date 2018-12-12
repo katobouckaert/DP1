@@ -1523,6 +1523,10 @@ body {
 .cid-r9omJfPC4H .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-r9omJfPC4H .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r9omJfPC4H .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-r9omJfPC4H .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r9omJfPC4H .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1618,6 +1622,10 @@ body {
   .cid-r9omJfPC4H .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-r9omJfPC4H .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r9omJfPC4H .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-r9omJfPC4H .navbar-collapse.collapsing .navbar-buttons,
   .cid-r9omJfPC4H .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1683,7 +1691,7 @@ body {
 .cid-r9on8NerB9 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background3.jpg");
+  background-color: #ffffff;
 }
 .cid-r9on8NerB9 .mbr-figure {
   margin: 0 auto;
@@ -1700,6 +1708,9 @@ body {
   .cid-r9on8NerB9 .mbr-figure img {
     width: 100% !important;
   }
+}
+.cid-r9on8NerB9 H1 {
+  color: #232323;
 }
 .cid-r9oaVS4WTC .navbar {
   background: #ffffff;
@@ -1933,6 +1944,10 @@ body {
 .cid-r9oaVS4WTC .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-r9oaVS4WTC .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r9oaVS4WTC .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-r9oaVS4WTC .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r9oaVS4WTC .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2027,6 +2042,10 @@ body {
   .cid-r9oaVS4WTC .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-r9oaVS4WTC .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-r9oaVS4WTC .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r9oaVS4WTC .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-r9oaVS4WTC .navbar-collapse.collapsing .navbar-buttons,
   .cid-r9oaVS4WTC .navbar-collapse.show .navbar-buttons {
@@ -2897,6 +2916,10 @@ body {
 .cid-r9oaVS4WTC .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-r9oaVS4WTC .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r9oaVS4WTC .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-r9oaVS4WTC .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r9oaVS4WTC .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2992,6 +3015,10 @@ body {
   .cid-r9oaVS4WTC .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-r9oaVS4WTC .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r9oaVS4WTC .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-r9oaVS4WTC .navbar-collapse.collapsing .navbar-buttons,
   .cid-r9oaVS4WTC .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -3057,7 +3084,7 @@ body {
 .cid-r9oiXOZjV9 {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/tekeningen-alcoholstift-2000x407.jpg");
 }
 .cid-r9oj2gIvaw {
   padding-top: 120px;
@@ -4146,6 +4173,10 @@ body {
 .cid-r9oaVS4WTC .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-r9oaVS4WTC .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r9oaVS4WTC .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-r9oaVS4WTC .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r9oaVS4WTC .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -4241,6 +4272,10 @@ body {
   .cid-r9oaVS4WTC .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-r9oaVS4WTC .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r9oaVS4WTC .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-r9oaVS4WTC .navbar-collapse.collapsing .navbar-buttons,
   .cid-r9oaVS4WTC .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -4306,7 +4341,7 @@ body {
 .cid-r9okGH7Nre {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/cirkel-distorted-rood-2000x2026.png");
 }
 .cid-r9okPhSmDZ {
   padding-top: 120px;
@@ -5110,6 +5145,10 @@ body {
 .cid-r9omJfPC4H .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-r9omJfPC4H .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r9omJfPC4H .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-r9omJfPC4H .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r9omJfPC4H .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -5204,6 +5243,10 @@ body {
   .cid-r9omJfPC4H .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-r9omJfPC4H .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-r9omJfPC4H .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r9omJfPC4H .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-r9omJfPC4H .navbar-collapse.collapsing .navbar-buttons,
   .cid-r9omJfPC4H .navbar-collapse.show .navbar-buttons {
